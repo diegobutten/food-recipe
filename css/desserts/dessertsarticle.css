@@ -1,0 +1,84 @@
+.article{
+	background-color:white;
+	border:5px double #23af78;
+	box-shadow:inset 0px 0px 10px #000;
+	width:1220px;
+	position:relative;
+	left:80px;
+	top:96px;
+	padding:20px;
+	height:auto;
+}
+
+
+p{text-indent:5%;}
+h2{font-family:kristen itc;
+	background-color:#ccc;
+	color:deeppink;
+}
+h1{font-family:kristen itc;
+	font-size:300%;
+	text-align:center;
+	padding:10px 0px 10px 0px;
+	color:white;
+	background-color:#23af78;
+	border-radius:50px;
+	text-shadow:2px 2px 2px #000;
+}
+b,i{font-size:150%;
+}
+.ol2, .ul2{
+	font-size:120%;
+}
+.prep, .total{
+	float:left;
+	padding:10px 100px;
+	text-align:left;
+	border-bottom:5px groove #ccc;
+	border-top:5px groove #ccc;
+}
+.total{float:none;}
+.serve{padding:80px 250px 80px 100px;float:left;border-bottom:5px ridge #ccc;font-family:courier;}
+.instructions, .ingredients{padding-left:20px;}
+
+
+
+.prep1, .total1, .cook1{
+	float:left;
+	padding:10px 100px 10px 100px;
+	text-align:left;
+	border-bottom:5px groove #ccc;
+	border-top:5px groove #ccc;
+}
+.total1{float:none;}
+
+.serve1{padding:80px 250px 80px 100px;float:left;border-bottom:5px ridge #ccc;font-family:courier;}
+.instructions1, .ingredients1, .caramel{padding-left:20px;}
+
+
+
+.prep2, .total2, .cook2{
+	float:left;
+	padding:10px 100px 10px 100px;
+	text-align:left;
+	border-bottom:5px groove #ccc;
+	border-top:5px groove #ccc;
+}
+.total2{float:none;}
+
+.serve2{padding:80px 250px 80px 100px;float:left;border-bottom:5px ridge #ccc;font-family:courier;}
+.instructions2, .ingredients2, .cream{padding-left:20px;}
+
+
+
+.prep3, .total3, .cook3{
+	float:left;
+	padding:10px 100px 10px 100px;
+	text-align:left;
+	border-bottom:5px groove #ccc;
+	border-top:5px groove #ccc;
+}
+.total3{float:none;}
+
+.serve3{padding:80px 250px 80px 100px;float:left;border-bottom:5px ridge #ccc;font-family:courier;}
+.instructions3, .ingredients3, .mocha{padding-left:20px;}

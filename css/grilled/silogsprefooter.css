@@ -1,0 +1,15 @@
+.prefooter{
+	top:3000px;
+	margin-top:150px;
+	width:1366px;
+	position:relative;
+	padding-left:380px;
+}
+.facebook, .skype, .instagram, .dropbox, .twitter{float:left;}
+.icon{
+	display:block;
+	width:100px;
+	position:relative;
+	padding:20px 30px;
+}
+.icon:hover{opacity:0.5;}

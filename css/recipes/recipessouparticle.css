@@ -1,0 +1,154 @@
+.article{
+	background-color:white;
+	border:5px double #23af78;
+	box-shadow:inset 0px 0px 10px #000;
+	width:1220px;
+	position:relative;
+	left:80px;
+	top:96px;
+	padding:20px;
+	height:auto;
+}
+#kinds{margin-bottom:40px;
+	border-bottom:2px solid #000;
+	border-radius:50px;
+	background-color:#23af78;
+}
+#soups, #stews{
+	width:380px;
+	float:left;
+}
+a.kinds{text-decoration:none;
+	color:white;
+}
+a.kinds:hover{
+	color:deeppink;
+	text-shadow:2px 2px 2px #000;
+}
+p{text-indent:5%;}
+h2{font-family:kristen itc;}
+h1{font-family:kristen itc;
+	font-size:300%;
+	text-align:center;
+	padding:10px 0px 10px 0px;
+}
+.tinolangmanok{
+	border:1px solid #fff;
+	position:relative;
+	width:500px;
+	float:left;
+	z-index:10;
+}
+.tinola{
+	width:400px;
+	height:300px;
+}
+.tinoladesc{
+	position:relative;
+	border:1px solid #fff;
+	font-size:130%;
+	padding:20px 0px 100px 0px;
+	text-align:justify;
+	width:1100px;
+}
+.sopassabaw{
+	border:1px solid #fff;
+	position:relative;
+	width:500px;
+	float:left;
+	z-index:10;
+}
+.sopas{
+	width:400px;
+	height:300px;
+}
+.sopasdesc{
+	position:relative;
+	border:1px solid #fff;
+	font-size:130%;
+	padding:20px 0px 100px 0px;
+	text-align:justify;
+	width:1100px;
+}
+.nilagangbaka{
+	border:1px solid #fff;
+	position:relative;
+	width:500px;
+	float:left;
+	z-index:10;
+}
+.baka{
+	width:400px;
+	height:300px;
+}
+.bakadesc{
+	position:relative;
+	border:1px solid #fff;
+	font-size:130%;
+	padding:20px 0px 60px 0px;
+	text-align:justify;
+	width:1100px;
+}
+
+.arrozcaldo{
+	border:1px solid #fff;
+	position:relative;
+	width:500px;
+	float:left;
+	z-index:10;
+}
+.arroz{
+	width:400px;
+	height:300px;
+}
+.arrozcaldodesc{
+	position:relative;
+	border:1px solid #fff;
+	font-size:130%;
+	padding:20px 0px 100px 0px;
+	text-align:justify;
+	width:1100px;
+}
+
+.porksinigang{
+	border:1px solid #fff;
+	position:relative;
+	width:500px;
+	float:left;
+	z-index:10;
+}
+.sinigang{
+	width:400px;
+	height:300px;
+}
+.porkdesc{
+	position:relative;
+	border:1px solid #fff;
+	font-size:130%;
+	padding:20px 0px 120px 0px;
+	text-align:justify;
+	width:1100px;
+}
+.nilagangbuto{
+	border:1px solid #fff;
+	position:relative;
+	width:500px;
+	float:left;
+	z-index:10;
+}
+.buto{
+	width:400px;
+	height:300px;
+}
+.butodesc{
+	position:relative;
+	border:1px solid #fff;
+	font-size:130%;
+	padding:20px 0px 80px 0px;
+	text-align:justify;
+	width:1100px;
+}
+.tinola:hover, .buto:hover, .sinigang:hover, .baka:hover, .arroz:hover, .sopas:hover{
+	opacity:0.8;
+}
+

@@ -1,0 +1,46 @@
+.article{
+	background-color:white;
+	border:5px double #23af78;
+	box-shadow:inset 0px 0px 10px #000;
+	width:1220px;
+	position:absolute;
+	left:80px;
+	top:180px;
+	padding:50px;
+	height:auto;
+}
+h1{
+	background-color:#23af78;
+	color:white;
+	font-family:kristen itc;
+	text-align:center;
+	border-radius:20px;
+	text-shadow:2px 2px 2px #000;
+	border-bottom:2px solid #000;
+}
+h2{color:deeppink;
+	background-color:#eee;
+}
+p{
+	font-size:120%;
+	text-indent:5%;
+	text-align:justify;
+	line-height:1.4em;
+	<!font-family:goudy old style>
+}
+.ul2, .ol2{font-size:120%;
+	line-height:1.4em;
+}
+.lump, .wrap1, .wrap2{
+	width:600px;
+}
+.lumpia, .wrapper1, .wrapper2{
+	padding-left:250px;
+}
+
+.lumpia1, .lumpia2, .lumpia3, .lumpia4, .lumpia5, .lumpia6, .lumpia7{
+	width:550px;
+	float:left;
+	padding:30px;
+}
+.red{color:red;}

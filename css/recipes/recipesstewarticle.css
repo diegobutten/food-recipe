@@ -1,0 +1,157 @@
+.article{
+	background-color:white;
+	border:5px double #23af78;
+	box-shadow:inset 0px 0px 10px #000;
+	width:1220px;
+	position:relative;
+	left:80px;
+	top:96px;
+	padding:20px;
+	height:auto;
+}
+#kinds{margin-bottom:40px;
+	border-bottom:2px solid #000;
+	border-radius:50px;
+	background-color:#23af78;
+}
+#soups, #stews{
+	width:380px;
+	float:left;
+}
+a.kinds{text-decoration:none;
+	color:white;
+}
+a.kinds:hover{
+	color:deeppink;
+	text-shadow:2px 2px 2px #000;
+}
+p{text-indent:5%;}
+h2{font-family:kristen itc;}
+h1{font-family:kristen itc;
+	font-size:300%;
+	text-align:center;
+	padding:10px 0px 10px 0px;
+}
+.adobo{
+	border:1px solid #fff;
+	position:relative;
+	width:500px;
+	float:left;
+	z-index:10;
+}
+.adobs{
+	width:400px;
+	height:300px;
+}
+.adobodesc{
+	position:relative;
+	border:1px solid #fff;
+	font-size:130%;
+	padding:20px 0px 100px 0px;
+	text-align:justify;
+	width:1100px;
+}
+
+.beefcaldereta{
+	border:1px solid #fff;
+	position:relative;
+	width:500px;
+	float:left;
+	z-index:10;
+}
+.caldereta{
+	width:400px;
+	height:300px;
+}
+.calderetadesc{
+	position:relative;
+	border:1px solid #fff;
+	font-size:130%;
+	padding:20px 0px 150px 0px;
+	text-align:justify;
+	width:1100px;
+}
+
+.beefmushroomstew{
+	border:1px solid #fff;
+	position:relative;
+	width:500px;
+	float:left;
+	z-index:10;
+}
+.stew{
+	width:400px;
+	height:300px;
+}
+.beefmushroomdesc{
+	position:relative;
+	border:1px solid #fff;
+	font-size:130%;
+	padding:20px 0px 105px 0px;
+	text-align:justify;
+	width:1100px;
+}
+
+.porkafritada{
+	border:1px solid #fff;
+	position:relative;
+	width:500px;
+	float:left;
+	z-index:10;
+}
+.afritada{
+	width:400px;
+	height:300px;
+}
+.afritadadesc{
+	position:relative;
+	border:1px solid #fff;
+	font-size:130%;
+	padding:20px 0px 130px 0px;
+	text-align:justify;
+	width:1100px;
+}
+
+.dinuguan{
+	border:1px solid #fff;
+	position:relative;
+	width:500px;
+	float:left;
+	z-index:10;
+}
+.dinugu{
+	width:400px;
+	height:300px;
+}
+.dinuguandesc{
+	position:relative;
+	border:1px solid #fff;
+	font-size:130%;
+	padding:20px 0px 130px 0px;
+	text-align:justify;
+	width:1100px;
+}
+
+.chickenafritada{
+	border:1px solid #fff;
+	position:relative;
+	width:500px;
+	float:left;
+	z-index:10;
+}
+.chicken{
+	width:400px;
+	height:300px;
+}
+.chickendesc{
+	position:relative;
+	border:1px solid #fff;
+	font-size:130%;
+	padding:20px 0px 130px 0px;
+	text-align:justify;
+	width:1100px;
+}
+
+.chicken:hover, .dinugu:hover, .adobs:hover, .afritada:hover, .caldereta:hover, .stew:hover{
+	opacity:0.8;
+}
